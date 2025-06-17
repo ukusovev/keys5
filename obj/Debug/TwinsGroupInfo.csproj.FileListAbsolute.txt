@@ -1,0 +1,6 @@
+C:\keys5\obj\Debug\TwinsGroupInfo.csprojAssemblyReference.cache
+C:\keys5\bin\Debug\TwinsGroupInfo.exe.config
+C:\keys5\bin\Debug\TwinsGroupInfo.exe
+C:\keys5\bin\Debug\TwinsGroupInfo.pdb
+C:\keys5\obj\Debug\TwinsGroupInfo.exe
+C:\keys5\obj\Debug\TwinsGroupInfo.pdb
